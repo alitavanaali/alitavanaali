@@ -18,23 +18,25 @@ Programming Languages: Python, Java <br>
 Technologies: TensorFlow, PyTorch, spaCy, GANs, Computer Vision, Scikit Learn, NLP <br>
 Tools: NumPy, pandas, Tesseract, GCP, Matplotlib, Transformers, LayoutLM, LLMs, BERT, OpenCV, <br>
 
+<br>
+
 ## 🚀 Projects
 ✨ Machine Learning/AI:
-- Developed a customized LLM chatbot tailored for specific user interactions.
-- Created a question and answer system using BERT to enhance information retrieval.
-- 'MusiComb': A dynamic music generator that leverages MIDI and WAV formats for diverse musical outputs.
-- 'FaceGenerator': Employed a cGAN to develop a realistic face generator using the CelebA dataset.
+- Developed a  [customized LLM chatbot](https://github.com/alitavanaali/ollama_customized_chatbot) tailored for specific user interactions.
+- Created a [Question and answer system](https://github.com/alitavanaali/Question-Answering_on_SQUAD) using BERT on SQUAD dataset.
+- MusiComb: A dynamic [music generator](https://github.com/alitavanaali/musicomb) that leverages MIDI and WAV formats for diverse musical outputs. 
+- FaceGenerator: Employed a cGAN to develop a realistic [face generator](https://github.com/alitavanaali/GenerateFaces_on_CelebA) using the CelebA dataset.
 <br><br>
 
 🎮 Android Game:
-- 'Bizzopop': Designed and launched an engaging arcade game available on Android platforms.
+- [BizzoPop](https://cafebazaar.ir/app/tavana.ali.bizzopop?l=en) : Designed and launched an engaging arcade game available on Android platforms.
 
 <br>
 
 📱 Android Apps:
-- 'Nafare Avval': Developed an app for students preparing for university entrance exams in Iran, featuring comprehensive resources and practice tests.
-- 'Jaygah': Created an app to help users locate the nearest gas stations with real-time updates and amenities.
-- 'TeleZhans': Designed an emergency calls widget, providing quick access to essential services via mobile devices.
+- [Nafare Avval](https://cafebazaar.ir/app/me.aliata.newkonkoor?l=en): Developed an app for students preparing for university entrance exams in Iran, featuring comprehensive resources and practice tests.
+- [Jaygah](https://cafebazaar.ir/app/ema.com.jaygah?l=en): Created an app to help users locate the nearest gas stations with real-time updates and amenities.
+- [TeleZhans](https://cafebazaar.ir/app/ali.tavana.telezhans?l=en): Designed an emergency calls widget, providing quick access to essential services via mobile devices.
 
 <br>
 
