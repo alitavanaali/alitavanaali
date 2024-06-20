@@ -26,6 +26,7 @@ Tools: NumPy, pandas, Tesseract, GCP, Matplotlib, Transformers, LayoutLM, LLMs, 
 ## 🚀 Projects
 ✨ Machine Learning/AI:
 - Developed a  [customized LLM chatbot](https://github.com/alitavanaali/ollama_customized_chatbot) tailored for specific user interactions.
+- Developed a  [Document Annotator Assistant](https://github.com/alitavanaali/annotator_assistant) for creating/maintaining visual databases particularly for fine-tuning with LayoutLMv3
 - Created a [Question and answer system](https://github.com/alitavanaali/Question-Answering_on_SQUAD) using BERT on SQUAD dataset.
 - MusiComb: A dynamic [music generator](https://github.com/alitavanaali/musicomb) that leverages MIDI and WAV formats for diverse musical outputs. 
 - FaceGenerator: Employed a cGAN to develop a realistic [face generator](https://github.com/alitavanaali/GenerateFaces_on_CelebA) using the CelebA dataset.
