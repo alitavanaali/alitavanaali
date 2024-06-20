@@ -19,7 +19,7 @@ Most recently, I worked at Wenda, where I played a pivotal role in applying mach
 
 Programming Languages: Python, Java <br>
 Technologies: TensorFlow, PyTorch, spaCy, GANs, Computer Vision, Scikit Learn, NLP <br>
-Tools: NumPy, pandas, Tesseract, GCP, Matplotlib, Transformers, LayoutLM, LLMs, BERT, OpenCV, <br>
+Tools: NumPy, pandas, Tesseract, GCP, Matplotlib, Transformers, LayoutLM, LLMs, BERT, OpenCV <br>
 
 <br>
 
