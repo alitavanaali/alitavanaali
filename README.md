@@ -1,3 +1,6 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Tavana-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alitavana/) [![Email](https://img.shields.io/badge/Email-alitavanaali%40gmail.com-red?style=flat-square&logo=gmail)](mailto:alitavanaali@gmail.com)
+
+
 ## 👋 Hi There! 
 I'm Ali Tavana, an Artificial Intelligence Engineer and Data Scientist based in Bologna, Italy. I specialize in developing advanced AI solutions that enhance the extraction and processing of information from diverse documents. With a Master's Degree in Artificial Intelligence from the University of Bologna. <br>
 Languages:
